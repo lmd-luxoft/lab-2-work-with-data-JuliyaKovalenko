@@ -40,7 +40,10 @@
     <Reference Include="System" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Goods.cs" />
     <Compile Include="Monopoly.cs" />
+    <Compile Include="Players.cs" />
+    <Compile Include="Types.cs" />
     <Compile Include="TestClass.cs" />
   </ItemGroup>
   <ItemGroup>
